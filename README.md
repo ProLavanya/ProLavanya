@@ -15,8 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProLavanya](https://github.com/ProLavanya)
 
-- 📝 I regularly write articles on [[Medium and TowardsDataScience](Medium and TowardsDataScience)]([Medium and TowardsDataScience](Medium and TowardsDataScience))
-
+- 📝 I regularly write articles on [[Medium and TowardsDataScience](Medium and TowardsDataScience)]
 - 💬 Ask me about **Python, Data Analysis and Statistics & visualizations**
 
 - 📫 How to reach me **Lavanya.Midde@outlook.com**
