@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lavanya Midde </h1>
+
+
+<h1 align="center">Hi 👋, I'm Lavanya Midde</h1>
 <h3 align="center">A Data Insighter</h3>
 
 <img align="right" width="400" src="https://thumbs.dreamstime.com/b/female-programmer-working-web-development-using-laptop-concept-software-developers-script-coding-programming-flat-205061277.jpg">
@@ -11,6 +13,8 @@
 
 - 🤝 I’m looking for help with **Machine Learning algorithmic coding**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ProLavanya](https://github.com/ProLavanya)
+
 - 📝 I regularly write articles on [[Medium and TowardsDataScience](Medium and TowardsDataScience)]([Medium and TowardsDataScience](Medium and TowardsDataScience))
 
 - 💬 Ask me about **Python, Data Analysis and Statistics**
@@ -19,11 +23,11 @@
 
 - 📄 Know about my experiences [linkedin.com/in/midde-lavanya-621819216](linkedin.com/in/midde-lavanya-621819216)
 
-- ⚡ Fun fact **logical thinker**
+- ⚡ Fun fact **logical and Creative thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/midde-lavanya-621819216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/midde-lavanya-621819216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/midde-lavanya-621819216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midde-lavanya-621819216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
