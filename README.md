@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ProLavanya</h1>
+<h1 align="center">Hi 👋, I'm Lavanya Midde </h1>
 <h3 align="center">A Data Insighter</h3>
 
 <img align="right" width="400" src="https://thumbs.dreamstime.com/b/female-programmer-working-web-development-using-laptop-concept-software-developers-script-coding-programming-flat-205061277.jpg">
