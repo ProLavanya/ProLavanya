@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **finding complex patterns of data**
 
-- 🤝 I’m looking for help with **Machine Learning algorithmic coding**
+- 🤝 I’m looking for help with **Advanced Machine Learning algorithmic coding**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProLavanya](https://github.com/ProLavanya)
 
 - 📝 I regularly write articles on [[Medium and TowardsDataScience](Medium and TowardsDataScience)]([Medium and TowardsDataScience](Medium and TowardsDataScience))
 
-- 💬 Ask me about **Python, Data Analysis and Statistics**
+- 💬 Ask me about **Python, Data Analysis and Statistics & visualizations**
 
 - 📫 How to reach me **Lavanya.Midde@outlook.com**
 
